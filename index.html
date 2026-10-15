@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz - Desastres Naturais no Brasil</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main class="container" id="app">
+    <header>
+      <h1>Quiz Escolar: Desastres Naturais no Brasil</h1>
+      <p class="subtitle">Tema laranja — aprenda sobre riscos, prevenção e resposta</p>
+    </header>
+
+    <section id="start-screen" class="card">
+      <p>Este quiz tem 30 perguntas no total. Ao iniciar, 6 perguntas serão sorteadas aleatoriamente. No final você verá por que cada resposta está certa ou errada.</p>
+      <div class="controls">
+        <label for="seed-name">Seu nome (opcional):</label>
+        <input id="seed-name" type="text" placeholder="Ex.: Maria" />
+        <button id="start-btn" class="btn-primary">Iniciar Quiz</button>
+      </div>
+    </section>
+
+    <section id="quiz-screen" class="card hidden" aria-live="polite">
+      <div id="progress">Pergunta <span id="current">1</span> de <span id="total">6</span></div>
+      <h2 id="question-text"></h2>
+      <ul id="options" class="options" role="list"></ul>
+      <div class="quiz-footer">
+        <button id="next-btn" class="btn-primary" disabled>Próxima</button>
+        <button id="quit-btn" class="btn-link">Sair</button>
+      </div>
+    </section>
+
+    <section id="result-screen" class="card hidden">
+      <h2>Resultado</h2>
+      <p id="score-text"></p>
+      <div id="review-list"></div>
+      <div class="controls">
+        <button id="retry-btn" class="btn-primary">Jogar Novamente</button>
+        <a id="github-link" class="btn-link" href="https://github.com/daniellsuavi/quiz-escola" target="_blank">Ver no GitHub</a>
+      </div>
+    </section>
+
+    <footer>
+      <small>Feito para fins educacionais. Conteúdo sobre prevenção e resposta a desastres naturais no Brasil.</small>
+    </footer>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

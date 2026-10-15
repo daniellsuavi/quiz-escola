@@ -1,0 +1,332 @@
+[
+  {
+    "question": "O que é um alagamento urbano?",
+    "options": [
+      "Acúmulo de água em áreas urbanas devido a chuva intensa e drenagem insuficiente",
+      "Movimento de terra em encostas por causa da chuva",
+      "Perda de colheitas por falta de chuva",
+      "Queimadas em áreas rurais"
+    ],
+    "answer": 0,
+    "explanation": "Alagamento urbano ocorre quando a água da chuva não é escoada adequadamente pela rede de drenagem, inundando ruas e residências."
+  },
+  {
+    "question": "Qual é uma medida eficaz para reduzir o risco de deslizamentos em áreas de encosta?",
+    "options": [
+      "Cortar toda a vegetação na encosta",
+      "Construir contenções, drenagem adequada e evitar ocupação irregular",
+      "Aumentar a densidade de ocupação",
+      "Desviar rios para as encostas"
+    ],
+    "answer": 1,
+    "explanation": "Manter vegetação, instalar sistemas de drenagem e evitar construções irregulares reduz a instabilidade do solo e o risco de deslizamentos."
+  },
+  {
+    "question": "O que é secas prolongadas e como afetam o Brasil?",
+    "options": [
+      "Períodos com chuvas acima da média que inundam plantações",
+      "Períodos sem chuva que reduzem o abastecimento de água e a produção agrícola",
+      "Tempestades com ventos fortes",
+      "Ondas de frio extremo"
+    ],
+    "answer": 1,
+    "explanation": "Secas prolongadas diminuem reservatórios, prejudicam agricultura e geram impactos socioeconômicos, especialmente no Nordeste e em áreas dependentes de irrigação."
+  },
+  {
+    "question": "Como a população deve agir durante uma enchente súbita em áreas urbanas?",
+    "options": [
+      "Tentar atravessar a água a pé sempre que possível",
+      "Subir para lugares altos, desligar a energia e não dirigir por áreas alagadas",
+      "Entrar em porões para procurar abrigo",
+      "Ignorar alertas meteorológicos"
+    ],
+    "answer": 1,
+    "explanation": "Em enchentes, buscar locais altos, evitar contaminação da água, desligar energia e não transitar de carro por áreas alagadas são medidas de segurança."
+  },
+  {
+    "question": "O que causa deslizamentos em encostas após chuvas intensas?",
+    "options": [
+      "Solo saturado pela água, desmatamento e drenagem inadequada",
+      "Aumento da biodiversidade local",
+      "Construção de barragens no topo da encosta",
+      "Resfriamento local"
+    ],
+    "answer": 0,
+    "explanation": "Chuvas saturam o solo, reduzindo sua coesão; somado a desmatamento e ocupação irregular, isso aumenta a probabilidade de deslizamentos."
+  },
+  {
+    "question": "Qual é uma ação preventiva para minimizar danos de queimadas florestais?",
+    "options": [
+      "Queimar áreas próximas a casas durante a seca",
+      "Manter aceiros, sistemas de vigilância e educação sobre uso do fogo",
+      "Plantar apenas espécies exóticas",
+      "Construir em áreas de risco sem plano de emergência"
+    ],
+    "answer": 1,
+    "explanation": "Aceiros, monitoramento, brigadas e conscientização reduzindo o uso indevido do fogo ajudam a prevenir e controlar queimadas."
+  },
+  {
+    "question": "O que são enxurradas e por que são perigosas?",
+    "options": [
+      "Fluxos rápidos de água que arrastam objetos e pessoas durante chuva intensa",
+      "Movimentos lentos de lama em encostas",
+      "Fumaça densa devido a queimadas",
+      "Ondas no litoral"
+    ],
+    "answer": 0,
+    "explanation": "Enxurradas são corredeiras formadas por chuva forte em áreas urbanas ou rurais que podem arrastar veículos, destruir casas e causar mortes."
+  },
+  {
+    "question": "Qual é o papel dos sistemas de alerta e monitoramento em desastres naturais?",
+    "options": [
+      "Aumentar a confusão entre a população",
+      "Avisar com antecedência e permitir evacuação e ações de mitigação",
+      "Substituir a necessidade de planejamento urbano",
+      "Servir apenas para estudos acadêmicos"
+    ],
+    "answer": 1,
+    "explanation": "Alertas precoces permitem que autoridades e população tomem medidas para reduzir perdas humanas e materiais."
+  },
+  {
+    "question": "Qual é a melhor postura durante um terremoto (mesmo que raro no Brasil)?",
+    "options": [
+      "Correr para o elevador",
+      "Proteger-se sob móveis resistentes, afastar-se de janelas e ficar em local seguro",
+      "Ficar na porta da geladeira",
+      "Ligar para todas as redes sociais simultaneamente"
+    ],
+    "answer": 1,
+    "explanation": "Proteger-se de objetos em queda, evitar janelas e não usar elevador são medidas recomendadas durante tremores."
+  },
+  {
+    "question": "O que é estabilidade urbana frente a chuvas intensas?",
+    "options": [
+      "Planejamento que inclui drenagem, áreas permeáveis e infraestrutura resistente",
+      "Pavimentação máxima sem espaços verdes",
+      "Construção irregular em encostas",
+      "Retirada de árvores para melhorar a vista"
+    ],
+    "answer": 0,
+    "explanation": "Cidades que priorizam drenagem, áreas verdes e permeabilidade reduzem enchentes e melhoram resiliência."
+  },
+  {
+    "question": "Como a educação nas escolas ajuda na prevenção de desastres?",
+    "options": [
+      "Não tem impacto significativo",
+      "Ajuda crianças e famílias a reconhecer riscos, seguir planos de evacuação e reduzir comportamentos perigosos",
+      "Aumenta o pânico",
+      "Substitui a responsabilidade dos governos"
+    ],
+    "answer": 1,
+    "explanation": "Ensinar medidas de prevenção e primeiros socorros melhora a preparação comunitária e reduz riscos."
+  },
+  {
+    "question": "Qual prática reduz o risco de enchentes em áreas rurais próximas a rios?",
+    "options": [
+      "Construir nas margens sem autorização",
+      "Preservar matas ciliares e evitar ocupação irregular das várzeas",
+      "Desviar o curso do rio por conta própria",
+      "Aterrar áreas de várzea para cultivo intensivo"
+    ],
+    "answer": 1,
+    "explanation": "Matas ciliares ajudam a reduzir a velocidade do escoamento e a manter a estabilidade das margens, reduzindo inundações."
+  },
+  {
+    "question": "O que fazer ao identificar uma área de risco (encosta instável) perto da sua casa?",
+    "options": [
+      "Ignorar e continuar construindo",
+      "Comunicar autoridades, evitar ocupação e buscar orientação técnica",
+      "Enterrar a área para estabilizá-la sozinho",
+      "Acender fogo para secar o solo"
+    ],
+    "answer": 1,
+    "explanation": "Relatar risco e não ocupar a área evita exposição a deslizamentos; especialistas e órgãos públicos devem avaliar e orientar."
+  },
+  {
+    "question": "Como funcionam as barragens e por que falhas são perigosas?",
+    "options": [
+      "Barragens nunca falham",
+      "Se uma barragem falha, grandes volumes de água podem causar inundações catastróficas a jusante",
+      "Barragens só servem para irrigação e não representam risco",
+      "Falhas apenas afetam peixes"
+    ],
+    "answer": 1,
+    "explanation": "Rompimentos liberam volumes enormes de água, arrastando estruturas e causando vítimas; manutenção e monitoramento são essenciais."
+  },
+  {
+    "question": "Qual das seguintes ações ajuda a reduzir perdas em períodos de seca?",
+    "options": [
+      "Uso eficiente da água, reservatórios e medidas de convivência com a seca",
+      "Construir mais piscinas públicas",
+      "Aumentar o consumo de água",
+      "Semear espécies que consumam mais água"
+    ],
+    "answer": 0,
+    "explanation": "Medidas de economia, gestão de recursos e planejamento agrícola ajudam a mitigar impactos da seca."
+  },
+  {
+    "question": "Qual é a importância de plantas e árvores nas áreas urbanas frente a desastres?",
+    "options": [
+      "Aumentam o risco de incêndio sempre",
+      "Melhoram a infiltração da água, reduzem ilhas de calor e ajudam a controlar enchentes",
+      "São irrelevantes para prevenção",
+      "Só servem para fins estéticos"
+    ],
+    "answer": 1,
+    "explanation": "Árvores e áreas verdes ajudam a absorver água, reduzem escorrimento e melhoram microclima urbano, contribuindo para resiliência."
+  },
+  {
+    "question": "O que é uma sirene de alerta comunitária?",
+    "options": [
+      "Um sistema de som para festas",
+      "Uma ferramenta que avisa a população sobre risco iminente, como enchentes ou rompimento de barragens",
+      "Um sinal usado apenas em fábricas",
+      "Uma espécie de iluminação pública"
+    ],
+    "answer": 1,
+    "explanation": "Sirene e outros meios de alerta informam rapidamente a população sobre emergência, permitindo evacuação e ações seguras."
+  },
+  {
+    "question": "Por que ocupações informais em encostas aumentam o risco de desastres?",
+    "options": [
+      "Porque melhoram a drenagem local",
+      "Porque normalmente não seguem projetos de engenharia, removem vegetação e obstruem cursos d'água",
+      "Porque criam áreas verdes",
+      "Porque aumentam o turismo"
+    ],
+    "answer": 1,
+    "explanation": "Construções irregulares podem desestabilizar taludes, prejudicar drenagem e colocar moradores em risco."
+  },
+  {
+    "question": "O que é planejamento de contingência escolar?",
+    "options": [
+      "Plano para festas escolares",
+      "Plano para a escola agir em emergências: rotas de fuga, ponto de encontro, treinamento",
+      "Uma lista de matérias a ensinar",
+      "Somente para quando faltar luz"
+    ],
+    "answer": 1,
+    "explanation": "Escolas com planos de contingência reduzem pânico e agem de forma organizada em situações de risco, protegendo alunos e funcionários."
+  },
+  {
+    "question": "Como a ocupação de áreas de várzea impacta as enchentes?",
+    "options": [
+      "Diminui a frequência de inundações",
+      "Aumenta danos porque áreas que antes absorviam água passam a ser ocupadas",
+      "Melhora a qualidade da água",
+      "Não tem impacto"
+    ],
+    "answer": 1,
+    "explanation": "Várzeas funcionam como áreas de amortecimento; ocupá-las diminui a capacidade do sistema de escoamento e aumenta impacto das enchentes."
+  },
+  {
+    "question": "Qual equipamento é útil para monitorar níveis de rios e prevenir enchentes?",
+    "options": [
+      "Pluviômetros e medidores de nível (estação hidrológica)",
+      "Rádios antigos",
+      "Apenas termômetros",
+      "Bússolas"
+    ],
+    "answer": 0,
+    "explanation": "Pluviômetros medem chuva e estações hidrológicas monitoram nível dos rios; juntos permitem emitir alertas antecipados."
+  },
+  {
+    "question": "O que é ressaca costeira e como afeta o litoral brasileiro?",
+    "options": [
+      "Aumento repentino das marés associado a ventos fortes que provoca erosão e inundações costeiras",
+      "Fenômeno relacionado a terremotos",
+      "Um tipo de incêndio na praia",
+      "Queda de temperatura no mar"
+    ],
+    "answer": 0,
+    "explanation": "Ressacas elevam o nível do mar e as ondas, podendo invadir áreas litorâneas, danificar estruturas e causar erosão."
+  },
+  {
+    "question": "Por que é importante ter rotas de fuga claramente indicadas em áreas públicas?",
+    "options": [
+      "Para enfeitar as ruas",
+      "Para permitir evacuação mais rápida e segura em emergências",
+      "Para reduzir o tráfego em horários de pico",
+      "Não é importante"
+    ],
+    "answer": 1,
+    "explanation": "Rotas de fuga sinalizadas evitam confusão e salvam vidas ao permitir que as pessoas saiam rapidamente de áreas perigosas."
+  },
+  {
+    "question": "O que um abrigo temporário deve oferecer após um desastre?",
+    "options": [
+      "Somente espaço para dormir",
+      "Água potável, alimentos, sanitários, cuidados básicos e informação",
+      "Apenas diversão para crianças",
+      "Nada, as pessoas devem voltar imediatamente para casa"
+    ],
+    "answer": 1,
+    "explanation": "Abrigos precisam suprir necessidades básicas, garantir higiene e fornecer informações sobre assistência e reunificação familiar."
+  },
+  {
+    "question": "Quais são sinais de que uma encosta pode deslizar em breve?",
+    "options": [
+      "Rachaduras nas paredes, inclinação do solo, árvores inclinadas e surgimento de nascentes",
+      "Aumento da população de pássaros",
+      "Cheiro de terra molhada apenas após chuvas",
+      "Mais flores na vegetação"
+    ],
+    "answer": 0,
+    "explanation": "Rachaduras, deslocamento de muros e árvores inclinadas indicam movimentação do solo e risco iminente de deslizamento."
+  },
+  {
+    "question": "Como a cobertura vegetal ajuda a prevenir erosão e deslizamentos?",
+    "options": [
+      "Aumenta o escorrimento",
+      "As raízes prendem o solo e a vegetação melhora a infiltração da água",
+      "Causa mais enchentes",
+      "Não tem efeito"
+    ],
+    "answer": 1,
+    "explanation": "Raízes sustentam o solo, diminuem velocidade do escoamento e ajudam na infiltração, reduzindo erosão."
+  },
+  {
+    "question": "Qual é a principal recomendação ao dirigir em áreas com chuva forte e alagamentos?",
+    "options": [
+      "Acelerar para atravessar a área mais rápido",
+      "Evitar dirigir por áreas alagadas e procurar rotas alternativas",
+      "Dirigir com faróis apagados",
+      "Parar no meio da via e esperar turistas"
+    ],
+    "answer": 1,
+    "explanation": "A água pode esconder buracos e arrastar veículos; o recomendado é não atravessar áreas alagadas."
+  },
+  {
+    "question": "Por que é importante a manutenção de córregos e galerias pluviais nas cidades?",
+    "options": [
+      "Para acumular lixo",
+      "Para garantir escoamento da água e evitar entupimentos que causam enchentes",
+      "Para aumentar o número de mosquitos",
+      "Não é importante"
+    ],
+    "answer": 1,
+    "explanation": "Limpeza e manutenção evitam obstrução do escoamento, reduzindo risco de alagamentos e enchentes urbanas."
+  },
+  {
+    "question": "O que é risco residual em Gestão de Riscos de Desastres?",
+    "options": [
+      "Risco que desaparece completamente após medidas",
+      "Risco que permanece mesmo após ações de mitigação e que precisa ser gerenciado",
+      "Risco que só existe em zonas rurais",
+      "Um tipo de seguro privado"
+    ],
+    "answer": 1,
+    "explanation": "Mesmo com medidas, algum nível de risco pode permanecer; políticas e planos devem considerar e reduzir esse risco residual."
+  },
+  {
+    "question": "Como as famílias podem se preparar para eventos extremos?",
+    "options": [
+      "Montando um plano de emergência, kit com documentos, água e medicamentos",
+      "Ignorando alertas meteorológicos",
+      "Vendendo tudo para comprar brinquedos",
+      "Mudando de cidade a cada mês"
+    ],
+    "answer": 0,
+    "explanation": "Planos familiares e kits de emergência tornam a resposta mais rápida e reduzem vulnerabilidades durante desastres."
+  }
+]
